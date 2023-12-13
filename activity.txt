@@ -1,0 +1,92 @@
+New session started.
+Tried to deposit money but cannot due to amount less than 1 rs.
+Money deposited in account number : 1.
+Tried to deposit money but cannot due to amount less than 1 rs.
+Money deposited in account number : 1.
+Tried to withdraw money but cannot due to amount less than 1 rs.
+Money withdrawn from account number : 1.
+Session ended.
+New session started.
+Tried to deposit money but cannot due to amount less than 1 rs.
+New session started.
+Tried to deposit money but cannot due to amount less than 1 rs.
+Tried to deposit money but cannot due to amount less than 1 rs.
+Tried to withdraw money but cannot due to amount less than 1 rs.
+Tried to withdraw money but cannot due to amount less than 1 rs.
+Session ended.
+New session started.
+Exited without doing anything.
+Session ended.
+New session started.
+Viewed inforamtion of all customer.
+Viewed activity history.
+Unable to create account due to same account number error.
+New session started.
+Viewed inforamtion of all customer.
+Viewed activity history.
+Session ended.
+New session started.
+New session started.
+Tried to deposit money but account not found.
+Viewed activity history.
+Session ended.
+New session started.
+Viewed inforamtion of all customer.
+Session ended.
+New session started.
+Viewed inforamtion of all customer.
+Session ended.
+New session started.
+New session started.
+New session started.
+New session started.
+New session started.
+Exited without doing anything.
+Session ended.
+New session started.
+New session started.
+Viewed inforamtion of all customer.
+Session ended.
+New session started.
+Viewed inforamtion of all customer.
+Session ended.
+New session started.
+New session started.
+New session started.
+New session started.
+New session started.
+New session started.
+New session started.
+New session started.
+New session started.
+New session started.
+New session started.
+New session started.
+New session started.
+New session started.
+Viewed activity history.
+Viewed activity history.
+Viewed inforamtion of all customer.
+Session ended.
+New session started.
+Viewed activity history.
+Session ended.
+New session started.
+Exited without doing anything.
+Session ended.
+New session started.
+Exited without doing anything.
+Session ended.
+New session started.
+Exited without doing anything.
+Session ended.
+New session started.
+Viewed activity history.
+Viewed activity history.
+Session ended.
+New session started.
+Viewed activity history.
+Session ended.
+New session started.
+Viewed activity history.
+Session ended.

@@ -1,0 +1,24 @@
+Rs 100 deposited in account number : 1
+Rs 500 deposited in account number : 1
+Rs 0 deposited in account number : 1
+Rs 500 deposited in account number : 2
+Rs 100 withdrawed from account number : 2
+Rs 100 withdrawed from account number : 2
+Rs 1 withdrawed from account number : 2
+Rs 1 withdrawed from account number : 2
+Rs 1 withdrawed from account number : 2
+Rs 1 withdrawed from account number : 2
+Rs 1 withdrawed from account number : 2
+Rs 1 withdrawed from account number : 2
+Rs 1 withdrawed from account number : 2
+Rs 1 transfered from account number : 2 to account number : 3
+Rs 5 transfered from account number : 2 to account number : 3
+Rs 0 transfered from account number : 1 to account number : 2
+Rs 50 transfered from account number : 1 to account number : 2
+Rs 50 transfered from account number : 1 to account number : 2
+Rs 1000 deposited in account number : 1
+Rs 0.5 deposited in account number : 1
+Rs 500 deposited in account number : 1
+Rs 0 withdrawed from account number : 1
+Rs 0 deposited in account number : 1
+Rs 0.5 withdrawed from account number : 1
